@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mabook/turtlebot_ws/install/setup.sh
